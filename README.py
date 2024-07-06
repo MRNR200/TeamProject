@@ -1,7 +1,7 @@
 # TeamProject
 import random 
 javab = random.randint(1,99)
-name = input('what is your name?  ')
+name = input('what is your name? ')
 hads = input('what answer?  ')
 hads = int(hads)
 attempt=0

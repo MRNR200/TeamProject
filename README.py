@@ -1,4 +1,9 @@
 # TeamProject
+#Backend have python code
+#There is game code
+#Code is :
+
+
 import random 
 javab = random.randint(1,99)
 name = input('what is your name? ')
